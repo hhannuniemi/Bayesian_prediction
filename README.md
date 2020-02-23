@@ -8,3 +8,5 @@ Three models are tested:
 3. Hierarchical model with hierarchical prior for mean and common variance.
 
 For model comparison Pareto-smoothed importance sampling (PSIS) is used to calculate leave-one-out cross validation.
+
+This project work is done in course "Bayesian Data Analysis" at Aalto University in 2018.
